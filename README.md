@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V1talis (Vitalis Ayado)
-- 👀 I’m interested in Full Stack Developping (With HTML, CSS, JS, REACT, C#, .NET, JAVA)
-- 🌱 I’m currently learning Full Stack Development at Karel de Grote School in Antwerp
+- 👀 I’m interested in Full Stack Developping (With HTML, CSS, JS, REACT, C#, JAVA, .NET)
+- 💼 I’m a Consultant at Nexios IT
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me vitalisayado@gmail.com
 
